@@ -1,14 +1,5 @@
 <?php
 
-/**
- * CRUD modal en PHP y MySQL
- * 
- * Este archivo guarda los datos el registro y la imagen
- * @author MRoblesDev
- * @version 1.0
- * https://github.com/mroblesdev
- * 
- */
 
 session_start();
 
